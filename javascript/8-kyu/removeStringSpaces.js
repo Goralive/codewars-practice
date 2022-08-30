@@ -1,3 +1,5 @@
-function noSpace(x){
-  return x.replace(/ /g,'')
+function noSpace(x) {
+  return x.replace(/ /g, "");
 }
+
+noSpace("Hello, world!");
